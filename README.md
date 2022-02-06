@@ -14,6 +14,7 @@ dayBook - Save your day log or notes on cloud
 **2. Run the following command in your project directory**
 
 > $ cd dayBook
+
 > $ npm install
 
 **3. How to launch**
