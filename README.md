@@ -20,5 +20,6 @@ dayBook - Save your day log or notes on cloud
 **3. How to launch**
 
 > $ npm run both
+
 > open http://localhost:3000/ or http://127.0.0.1:3000/ using your web browser
 
