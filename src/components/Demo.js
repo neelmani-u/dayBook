@@ -122,7 +122,7 @@ export function Demo() {
                         <label htmlFor="tag" className="form-label" >Tag (Optional)</label>
                         <input type="text" className="form-control" placeholder="Default: General" id="tag" name="tag" onChange={onChange} />
                     </div>
-                    <button type="submit" disabled={(note.title.length <= 5) || (note.description.length <= 6)} className="btn btn-primary" >Add Note</button>
+                    <button type="submit" disabled={(note.title.length <= 3) || (note.description.length <= 3)} className="btn btn-primary" >Add Note</button>
                 </form>
             </div>
 
