@@ -39,6 +39,7 @@ dayBook stands as a testament to the power of the MERN stack, offering an intuit
 
 **2. Run the following command in your project directory**
 > $ cd dayBook
+
 > $ npm install
 
 **3. How to launch**
