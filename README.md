@@ -44,5 +44,6 @@ dayBook stands as a testament to the power of the MERN stack, offering an intuit
 
 **3. How to launch**
 > $ npm run both
-> open http://localhost:3000/ or http://127.0.0.1:3000/ using your web browser
+
+**4. Open http://localhost:3000/ or http://127.0.0.1:3000/ using your web browser**
 
